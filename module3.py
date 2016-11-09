@@ -10,7 +10,7 @@ import RPi.GPIO as GPIO
 import time
 import sys, tty, termios
 
-print '\nHi, I am PiBot, your very own learning robote...\n'
+print '\nHi, I am PiBot, your very own learning awesomeness...\n'
 
 GPIO.setmode(GPIO.BOARD)
 
